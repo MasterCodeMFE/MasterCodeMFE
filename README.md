@@ -24,10 +24,11 @@
 - 📫 **Cómo contactarme:** [mfernandezesteban2000@gmail.com](mailto:mfernandezesteban2000@gmail.com)
 
 ### Lenguajes de Programación que Conozco
-- <img src="https://github.com/MasterCodeMFE/MasterCodeMFE/assets/139508718/21890e6e-f50f-4778-a31b-15e028b5687b" width="50" height="50"> C
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-- <img src="https://github.com/MasterCodeMFE/MasterCodeMFE/assets/139508718/02ca4143-8698-4474-985a-298db43fbfa8" width="50" height="50"> CSS
-- <img src="https://github.com/MasterCodeMFE/MasterCodeMFE/assets/139508718/b3b26e66-1eec-44f1-b8bb-c4383f16c5d7" width="50" height="50"> PHP
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"> CSS
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"> HTML
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"> PHP
+- <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Shell" width="40" height="40"> Shell
+
 
 
 
