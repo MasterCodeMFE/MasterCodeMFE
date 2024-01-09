@@ -24,10 +24,10 @@
 - 📫 **Cómo contactarme:** [mfernandezesteban2000@gmail.com](mailto:mfernandezesteban2000@gmail.com)
 
 ### Lenguajes de Programación que Conozco
-- ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-- ![Html5_diseño_web-1](https://github.com/MasterCodeMFE/MasterCodeMFE/assets/139508718/792aa39c-43bc-435d-b0e1-7b4ecb0124bc)
--![CSS3_logo_and_wordmark svg](https://github.com/MasterCodeMFE/MasterCodeMFE/assets/139508718/02ca4143-8698-4474-985a-298db43fbfa8)
--![PHP-logo svg](https://github.com/MasterCodeMFE/MasterCodeMFE/assets/139508718/b3b26e66-1eec-44f1-b8bb-c4383f16c5d7)
+- <img src="https://github.com/MasterCodeMFE/MasterCodeMFE/assets/139508718/21890e6e-f50f-4778-a31b-15e028b5687b" width="50" height="50"> C
+- <img src="https://github.com/MasterCodeMFE/MasterCodeMFE/assets/139508718/792aa39c-43bc-435d-b0e1-7b4ecb0124bc" width="50" height="50"> HTML
+- <img src="https://github.com/MasterCodeMFE/MasterCodeMFE/assets/139508718/02ca4143-8698-4474-985a-298db43fbfa8" width="50" height="50"> CSS
+- <img src="https://github.com/MasterCodeMFE/MasterCodeMFE/assets/139508718/b3b26e66-1eec-44f1-b8bb-c4383f16c5d7" width="50" height="50"> PHP
 
 
 
