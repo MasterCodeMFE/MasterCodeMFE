@@ -23,11 +23,11 @@
 - 🚀 **Metas:** Contribuir a proyectos de código abierto y ampliar mis conocimientos tecnológicos.
 - 📫 **Cómo contactarme:** [mfernandezesteban2000@gmail.com](mailto:mfernandezesteban2000@gmail.com)
 
-### Lenguajes de Programación que Conozco
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"> CSS
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"> HTML
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"> PHP
-- <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Shell" width="40" height="40"> Shell
+### Competencias en Desarrollo de Software
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40">
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40">
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40">
+- <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Shell" width="40" height="40">
 
 
 
