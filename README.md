@@ -24,9 +24,12 @@
 - 📫 **Cómo contactarme:** [mfernandezesteban2000@gmail.com](mailto:mfernandezesteban2000@gmail.com)
 
 ### Lenguajes de Programación que Conozco
-- C
-- C++
-- [Otros lenguajes que estés aprendiendo]
+- ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+- ![Html5_diseño_web-1](https://github.com/MasterCodeMFE/MasterCodeMFE/assets/139508718/792aa39c-43bc-435d-b0e1-7b4ecb0124bc)
+-![CSS3_logo_and_wordmark svg](https://github.com/MasterCodeMFE/MasterCodeMFE/assets/139508718/02ca4143-8698-4474-985a-298db43fbfa8)
+-![PHP-logo svg](https://github.com/MasterCodeMFE/MasterCodeMFE/assets/139508718/b3b26e66-1eec-44f1-b8bb-c4383f16c5d7)
+
+
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MasterCodeMFE&show_icons=true&locale=en&layout=compact" alt="MasterCodeMFE" />
