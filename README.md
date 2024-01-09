@@ -10,7 +10,7 @@
   </a>
 </p>
 
-- 🎓 Actualmente estoy aprendiendo **Programación en ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white) en la escuela 42 Madrid.
+- 🎓 Actualmente estoy aprendiendo **Programación en c** en la escuela 42 Madrid.
 - 📘 En clase de Formación Profesional, estoy estudiando **Administración de Sistemas Informáticos en Red (ASIR)**.
 - 💻 **Proyectos:**
   - [Libft](link_al_proyecto_libft): Una biblioteca en C que contiene funciones útiles para futuros proyectos.
