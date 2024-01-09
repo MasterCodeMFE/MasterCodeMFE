@@ -10,7 +10,7 @@
   </a>
 </p>
 
-- 🎓 Actualmente estoy aprendiendo **Programación en C** en la escuela 42 Madrid.
+- 🎓 Actualmente estoy aprendiendo **Programación en ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white) en la escuela 42 Madrid.
 - 📘 En clase de Formación Profesional, estoy estudiando **Administración de Sistemas Informáticos en Red (ASIR)**.
 - 💻 **Proyectos:**
   - [Libft](link_al_proyecto_libft): Una biblioteca en C que contiene funciones útiles para futuros proyectos.
@@ -22,6 +22,11 @@
 - 💼 Explorando proyectos y desafíos para aplicar mis habilidades en desarrollo.
 - 🚀 **Metas:** Contribuir a proyectos de código abierto y ampliar mis conocimientos tecnológicos.
 - 📫 **Cómo contactarme:** [mfernandezesteban2000@gmail.com](mailto:mfernandezesteban2000@gmail.com)
+
+### Lenguajes de Programación que Conozco
+- C
+- C++
+- [Otros lenguajes que estés aprendiendo]
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MasterCodeMFE&show_icons=true&locale=en&layout=compact" alt="MasterCodeMFE" />
@@ -36,3 +41,4 @@
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MasterCodeMFE&" alt="MasterCodeMFE" />
 </p>
+
