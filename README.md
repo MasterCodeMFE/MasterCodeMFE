@@ -28,6 +28,8 @@
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40">
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40">
 - <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Shell" width="40" height="40">
+- <img src="https://github.com/MasterCodeMFE/MasterCodeMFE/assets/139508718/3026cddd-505e-4701-806b-3c88e370b409" alt="C" width="40" height="40">
+
 
 
 
