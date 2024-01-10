@@ -13,9 +13,8 @@
 - 🎓 Actualmente estoy aprendiendo **Programación en c** en la escuela 42 Madrid.
 - 📘 En clase de Formación Profesional, estoy estudiando **Administración de Sistemas Informáticos en Red (ASIR)**.
 - 💻 **Proyectos:**
-  - [Libft](link_al_proyecto_libft): Una biblioteca en C que contiene funciones útiles para futuros proyectos.
+  - [Libft]([link_al_proyecto_libft](https://github.com/MasterCodeMFE/Libft)): Una biblioteca en C que contiene funciones útiles para futuros proyectos.
   - [Printf](link_al_proyecto_printf): Implementación personalizada de la función printf en C.
-  - [BorntoBeRoot](link_al_proyecto_borntoberoot): Proyecto de seguridad que explora conceptos de permisos y privilegios.
   - [Get_Next_Line](link_al_proyecto_get_next_line): Una función en C que lee líneas desde un archivo descriptor de archivo o la entrada estándar.
   - [Fdf](link_al_proyecto_fdf): Proyecto en proceso que se centra en la representación gráfica de mapas en 3D.
 
