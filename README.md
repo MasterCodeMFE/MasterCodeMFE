@@ -14,9 +14,9 @@
 - 📘 En clase de Formación Profesional, estoy estudiando **Administración de Sistemas Informáticos en Red (ASIR)**.
 - 💻 **Proyectos:**
   - [Libft](https://github.com/MasterCodeMFE/Libft): Una biblioteca en C que contiene funciones útiles para futuros proyectos.
-- [Printf](https://github.com/MasterCodeMFE/ft_printf): Implementación personalizada de la función printf en C.
-- [Get_Next_Line](https://github.com/MasterCodeMFE/get_next_line): Una función en C que lee líneas desde un archivo descriptor de archivo o la entrada estándar.
-- [Fdf](https://github.com/MasterCodeMFE/FdF): Proyecto en proceso que se centra en la representación gráfica de mapas en 3D.
+  - [Printf](https://github.com/MasterCodeMFE/ft_printf): Implementación personalizada de la función printf en C.
+  - [Get_Next_Line](https://github.com/MasterCodeMFE/get_next_line): Una función en C que lee líneas desde un archivo descriptor de archivo o la entrada estándar.
+  - [Fdf](https://github.com/MasterCodeMFE/FdF): Proyecto en proceso que se centra en la representación gráfica de mapas en 3D.
 
 
 - 💼 Explorando proyectos y desafíos para aplicar mis habilidades en desarrollo.
