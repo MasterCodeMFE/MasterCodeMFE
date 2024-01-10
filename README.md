@@ -29,6 +29,7 @@
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40">
 - <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Shell" width="40" height="40">
 - <img src="https://github.com/MasterCodeMFE/MasterCodeMFE/blob/main/assets/139508718/1ef89e00-ead5-41ab-9dbf-d38d3de43a0d/ISO_C++_Logo.svg" alt="C++" width="40" height="40">
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MasterCodeMFE&show_icons=true&locale=en&layout=compact" alt="MasterCodeMFE" />
 </p>
