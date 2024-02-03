@@ -22,23 +22,23 @@
  </thead>
  <tbody>
     <tr>
-      <td><a href="https://github.com/MasterCodeMFE/push_swap">Push_Swap</a></td>
+      <td><a href="https://github.com/MasterCodeMFE/push_swap" style="color: blue; text-decoration: none;">Push_Swap</a></td>
       <td>Un proyecto que implementa algoritmos de clasificación y manipulación de pilas.</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/MasterCodeMFE/FdF">Fdf</a></td>
+      <td><a href="https://github.com/MasterCodeMFE/FdF" style="color: blue; text-decoration: none;">Fdf</a></td>
       <td>Proyecto en proceso que se centra en la representación gráfica de mapas en 3D.</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/MasterCodeMFE/ft_printf">Printf</a></td>
+      <td><a href="https://github.com/MasterCodeMFE/ft_printf" style="color: blue; text-decoration: none;">Printf</a></td>
       <td>Implementación personalizada de la función printf en C.</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/MasterCodeMFE/get_next_line">Get_Next_Line</a></td>
+      <td><a href="https://github.com/MasterCodeMFE/get_next_line" style="color: blue; text-decoration: none;">Get_Next_Line</a></td>
       <td>Una función en C que lee líneas desde un archivo descriptor de archivo o la entrada estándar.</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/MasterCodeMFE/Libft">Libft</a></td>
+      <td><a href="https://github.com/MasterCodeMFE/Libft" style="color: blue; text-decoration: none;">Libft</a></td>
       <td>Una biblioteca en C que contiene funciones útiles para futuros proyectos.</td>
     </tr>
  </tbody>
