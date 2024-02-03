@@ -13,11 +13,36 @@
 - 🎓 Actualmente estoy aprendiendo **Programación en c** en la escuela 42 Madrid.
 - 📘 En clase de Formación Profesional, estoy estudiando **Administración de Sistemas Informáticos en Red (ASIR)**.
 - 💻 **Proyectos:**
-  - [Fdf](https://github.com/MasterCodeMFE/FdF): Proyecto en proceso que se centra en la representación gráfica de mapas en 3D.
-  - [Printf](https://github.com/MasterCodeMFE/ft_printf): Implementación personalizada de la función printf en C.
-  - [Get_Next_Line](https://github.com/MasterCodeMFE/get_next_line): Una función en C que lee líneas desde un archivo descriptor de archivo o la entrada estándar.
-  - [Libft](https://github.com/MasterCodeMFE/Libft): Una biblioteca en C que contiene funciones útiles para futuros proyectos.
-
+<table>
+ <thead>
+    <tr>
+      <th>💻 **Proyectos:**</th>
+      <th>Descripción</th>
+    </tr>
+ </thead>
+ <tbody>
+    <tr>
+      <td><a href="https://github.com/MasterCodeMFE/push_swap">Push_Swap</a></td>
+      <td>Un proyecto que implementa algoritmos de clasificación y manipulación de pilas.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/MasterCodeMFE/FdF">Fdf</a></td>
+      <td>Proyecto en proceso que se centra en la representación gráfica de mapas en 3D.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/MasterCodeMFE/ft_printf">Printf</a></td>
+      <td>Implementación personalizada de la función printf en C.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/MasterCodeMFE/get_next_line">Get_Next_Line</a></td>
+      <td>Una función en C que lee líneas desde un archivo descriptor de archivo o la entrada estándar.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/MasterCodeMFE/Libft">Libft</a></td>
+      <td>Una biblioteca en C que contiene funciones útiles para futuros proyectos.</td>
+    </tr>
+ </tbody>
+</table>
 
 - 💼 Explorando proyectos y desafíos para aplicar mis habilidades en desarrollo.
 - 🚀 **Metas:** Contribuir a proyectos de código abierto y ampliar mis conocimientos tecnológicos.
