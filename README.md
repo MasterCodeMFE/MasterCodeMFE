@@ -16,7 +16,7 @@
 <table>
  <thead>
     <tr>
-      <th>💻 **Proyectos:**</th>
+      <th>Nombre del Proyecto</th>
       <th>Descripción</th>
     </tr>
  </thead>
