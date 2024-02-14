@@ -27,7 +27,7 @@
     </tr>
     <tr>
       <td><a href="https://github.com/MasterCodeMFE/FdF" style="color: blue; text-decoration: none;">Fdf</a></td>
-      <td>Proyecto en proceso que se centra en la representación gráfica de mapas en 3D.</td>
+      <td>Proyecto que se centra en la representación gráfica de mapas en 3D.</td>
     </tr>
     <tr>
       <td><a href="https://github.com/MasterCodeMFE/ft_printf" style="color: blue; text-decoration: none;">Printf</a></td>
