@@ -1,4 +1,5 @@
-# ¡Hola! Soy Manuel Fernández 👨🏻‍💻
+# ¡Hola! Soy Manuel Fernández 
+![1f9d1-200d-1f4bb](https://github.com/MasterCodeMFE/MasterCodeMFE/assets/139508718/669ed15c-5a67-4c76-a466-df674227d387)
 
 ![Vistas de perfil](https://komarev.com/ghpvc/?username=MasterCodeMFE&label=Vistas%20de%20perfil&color=2ea44f&style=flat-square)
 
