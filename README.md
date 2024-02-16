@@ -22,7 +22,7 @@
 - 📫 **Contáctame:** [mfernandezesteban2000@gmail.com](mailto:mfernandezesteban2000@gmail.com)
 
 ### Competencias en Desarrollo de Software
-<p align="center">
+<p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40">
@@ -32,8 +32,8 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40">
   </a>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/network/network-original.svg" alt="Redes" width="40" height="40">
 </p>
+
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MasterCodeMFE&layout=compact&langs_count=8&theme=radical)
