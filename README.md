@@ -1,8 +1,8 @@
 # ¡Hola! Soy Manuel Fernández 👨🏻‍💻
 
-![Vistas de perfil](https://komarev.com/ghpvc/?username=MasterCodeMFE&label=Vistas%20de%20perfil&color=0e75b6&style=flat-square)
+![Vistas de perfil](https://komarev.com/ghpvc/?username=MasterCodeMFE&label=Vistas%20de%20perfil&color=2ea44f&style=flat-square)
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=MasterCodeMFE&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=MasterCodeMFE&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🎓 Actualmente me encuentro inmerso en el aprendizaje de **Programación en C** en la escuela 42 Madrid.
 - 📘 También estudio **Administración de Sistemas Informáticos en Red (ASIR)** como parte de mi formación profesional.
@@ -34,10 +34,9 @@
   </a>
 </p>
 
-
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MasterCodeMFE&layout=compact&langs_count=8&theme=radical)
 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=MasterCodeMFE&show_icons=true&theme=radical)
 
 ![Estadísticas de Racha en GitHub](https://github-readme-streak-stats.herokuapp.com/?user=MasterCodeMFE)
+
