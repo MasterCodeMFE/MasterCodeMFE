@@ -22,7 +22,17 @@
 - 📫 **Contáctame:** [mfernandezesteban2000@gmail.com](mailto:mfernandezesteban2000@gmail.com)
 
 ### Competencias en Desarrollo de Software
-![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg) ![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg) ![PHP](https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg) ![Shell](https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg) ![C](https://github.com/MasterCodeMFE/MasterCodeMFE/assets/139508718/05d15b73-a629-4d3f-83c5-96582c4eb402) ![mysql](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg) [![linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg)](https://www.linux.org/)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40">
+  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Shell" width="40" height="40">
+  <img src="https://github.com/MasterCodeMFE/MasterCodeMFE/assets/139508718/05d15b73-a629-4d3f-83c5-96582c4eb402" alt="C" width="40" height="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40">
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40">
+  </a>
+</p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MasterCodeMFE&layout=compact&langs_count=8&theme=radical)
 
