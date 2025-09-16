@@ -8,7 +8,7 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=MasterCodeMFE&label=Vistas%20de%20perfil&color=2ea44f&style=for-the-badge)](https://github.com/MasterCodeMFE)
 [![GitHub followers](https://img.shields.io/github/followers/MasterCodeMFE?label=Seguidores&style=for-the-badge&color=blue)](https://github.com/MasterCodeMFE)
 [![Email](https://img.shields.io/badge/Email-mfernandezesteban2000@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mfernandezesteban2000@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Manuel%20Fernández-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manuelfernandez)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Manuel%20Fernández-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manuel-fern%C3%A1ndez-esteban/)
 
 </div>
 
