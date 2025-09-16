@@ -1,43 +1,134 @@
-# ¡Hola! Soy Manuel Fernández 
-![1f9d1-200d-1f4bb](https://github.com/MasterCodeMFE/MasterCodeMFE/assets/139508718/669ed15c-5a67-4c76-a466-df674227d387)
+# ¡Hola! 👋 Soy Manuel Fernández
 
-![Vistas de perfil](https://komarev.com/ghpvc/?username=MasterCodeMFE&label=Vistas%20de%20perfil&color=2ea44f&style=flat-square)
+<div align="center">
+  
+  ![Profile Banner](https://github.com/MasterCodeMFE/MasterCodeMFE/assets/139508718/669ed15c-5a67-4c76-a466-df674227d387)
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=MasterCodeMFE&label=Vistas%20de%20perfil&color=2ea44f&style=flat-square)
+  [![GitHub followers](https://img.shields.io/github/followers/MasterCodeMFE?label=Seguidores&style=social)](https://github.com/MasterCodeMFE)
+  
+</div>
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=MasterCodeMFE&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
+## 🚀 Sobre Mí
 
-- 🎓 Actualmente me encuentro inmerso en el aprendizaje de **Programación en C** en la escuela 42 Madrid.
-- 📘 También estudio **Administración de Sistemas Informáticos en Red (ASIR)** como parte de mi formación profesional.
+🎓 **Estudiante apasionado** en la prestigiosa **Escuela 42 Madrid**, especializándome en **Programación en C** y desarrollando soluciones algorítmicas complejas.
 
-### Proyectos Destacados:
+� **Formación académica dual**: Cursando **Administración de Sistemas Informáticos en Red (ASIR)** para complementar mis habilidades técnicas con conocimientos de infraestructura y redes.
 
-| Proyecto           | Descripción                                                                                 |
-|--------------------|---------------------------------------------------------------------------------------------|
-| [Push_Swap](https://github.com/MasterCodeMFE/push_swap) | Implementación de algoritmos de clasificación y manipulación de pilas.            |
-| [Fdf](https://github.com/MasterCodeMFE/FdF)             | Representación gráfica de mapas en 3D.                                                 |
-| [Printf](https://github.com/MasterCodeMFE/ft_printf)    | Implementación personalizada de la función printf en C.                           |
-| [Get_Next_Line](https://github.com/MasterCodeMFE/get_next_line) | Función en C para leer líneas desde archivos o entrada estándar.            |
-| [Libft](https://github.com/MasterCodeMFE/Libft)         | Biblioteca en C con funciones útiles para proyectos futuros.                         |
+💡 **Enfoque de aprendizaje**: Me especializo en la programación de bajo nivel, algoritmos de optimización y desarrollo de sistemas, con un fuerte énfasis en la eficiencia y las buenas prácticas de código.
 
-- 💼 En busca de proyectos y desafíos que me permitan aplicar mis habilidades en desarrollo.
-- 🚀 **Metas:** Contribuir a proyectos de código abierto y expandir mis conocimientos tecnológicos.
-- 📫 **Contáctame:** [mfernandezesteban2000@gmail.com](mailto:mfernandezesteban2000@gmail.com)
+---
 
-### Competencias en Desarrollo de Software
+## 🏆 Logros y Reconocimientos
+
+<div align="center">
+  
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=MasterCodeMFE&theme=nord&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 🛠️ Proyectos Destacados
+
+<table>
+<tr>
+<td>
+
+### 🎯 **Proyectos Core de 42**
+| Proyecto | Descripción | Tecnología |
+|----------|-------------|------------|
+| **[Cube3D](https://github.com/MasterCodeMFE/cube3d)** | Motor de renderizado 3D estilo raycasting inspirado en Wolfenstein 3D | `C` `MinilibX` |
+| **[Push_Swap](https://github.com/MasterCodeMFE/push_swap)** | Algoritmo de ordenamiento optimizado para pilas con mínimo número de operaciones | `C` `Algoritmos` |
+| **[FdF](https://github.com/MasterCodeMFE/FdF)** | Representación gráfica 3D de mapas topográficos con proyección isométrica | `C` `Gráficos` |
+| **[Printf](https://github.com/MasterCodeMFE/ft_printf)** | Reimplementación completa de la función printf de la biblioteca estándar | `C` `Parsing` |
+
+</td>
+</tr>
+<tr>
+<td>
+
+### 🔧 **Utilidades y Librerías**
+| Proyecto | Descripción | Estado |
+|----------|-------------|--------|
+| **[Get_Next_Line](https://github.com/MasterCodeMFE/get_next_line)** | Función para lectura eficiente línea por línea desde file descriptors | ✅ Completado |
+| **[Libft](https://github.com/MasterCodeMFE/Libft)** | Biblioteca personal de funciones C optimizadas y reutilizables | ✅ Completado |
+| **[TAI](https://github.com/MasterCodeMFE/TAI)** | Proyecto de Tecnologías de Aplicaciones de Internet | 🚧 En desarrollo |
+| **[ft_script](https://github.com/MasterCodeMFE/ft_script)** | Herramienta de automatización y scripting | 🚧 En desarrollo |
+
+</td>
+</tr>
+</table>
+
+---
+
+## � Stack Tecnológico
+
+<div align="center">
+
+### **Lenguajes de Programación**
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40">
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Shell" width="40" height="40">
-  <img src="https://github.com/MasterCodeMFE/MasterCodeMFE/assets/139508718/05d15b73-a629-4d3f-83c5-96582c4eb402" alt="C" width="40" height="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40">
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40">
-  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="45" height="45"/>
+  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="45" height="45"/>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MasterCodeMFE&layout=compact&langs_count=8&theme=radical)
+### **Desarrollo Web**
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="45" height="45"/>
+</p>
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=MasterCodeMFE&show_icons=true&theme=radical)
+### **Bases de Datos y Sistemas**
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="45" height="45"/>
+</p>
 
-![Estadísticas de Racha en GitHub](https://github-readme-streak-stats.herokuapp.com/?user=MasterCodeMFE)
+</div>
+
+---
+
+## 📊 Estadísticas de GitHub
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MasterCodeMFE&show_icons=true&theme=radical&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MasterCodeMFE&layout=compact&theme=radical&hide_border=true&langs_count=8)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MasterCodeMFE&theme=radical&hide_border=true)
+
+</div>
+
+---
+
+## 🎯 Objetivos y Aspiraciones
+
+- 🔍 **Objetivo inmediato**: Completar el curriculum de 42 Madrid con excelencia
+- 🌟 **Contribución Open Source**: Participar activamente en proyectos de código abierto
+- 🚀 **Especialización**: Profundizar en sistemas embebidos y programación de sistemas
+- 🤝 **Colaboración**: Buscar oportunidades de trabajo en equipos de desarrollo innovadores
+
+---
+
+## 📫 Conecta Conmigo
+
+<div align="center">
+  
+[![Email](https://img.shields.io/badge/Email-mfernandezesteban2000@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mfernandezesteban2000@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-MasterCodeMFE-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MasterCodeMFE)
+
+</div>
+
+---
+
+<div align="center">
+  
+**"La programación no es solo escribir código, es resolver problemas de manera elegante y eficiente"**
+
+⭐ **¡Dale una estrella si te gusta mi trabajo!** ⭐
+
+</div>
 
