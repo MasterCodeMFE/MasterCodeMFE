@@ -236,7 +236,7 @@
 
 | 📧 Email | 📱 Teléfono | 🔗 LinkedIn | 🐙 GitHub |
 |----------|-------------|-------------|-----------|
-| [mfernandezesteban2000@gmail.com](mailto:mfernandezesteban2000@gmail.com) | +34 637 147 575 | [LinkedIn Profile](https://linkedin.com/in/manuelfernandez) | [MasterCodeMFE](https://github.com/MasterCodeMFE) |
+| [mfernandezesteban2000@gmail.com](mailto:mfernandezesteban2000@gmail.com) | +34 637 147 575 | [LinkedIn Profile](https://www.linkedin.com/in/manuel-fern%C3%A1ndez-esteban/) | [MasterCodeMFE](https://github.com/MasterCodeMFE) |
 
 </div>
 
