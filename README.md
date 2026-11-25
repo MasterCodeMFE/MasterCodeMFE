@@ -1,21 +1,21 @@
 <!--
 ══════════════════════════════════════════════════════════════════════
-  MASTER CODE MFE
-  DevOps · Linux · Observability · Systems Programming
+ MASTER CODE MFE
+ DevOps · Linux · Observabilidad · Programación de Sistemas
 ══════════════════════════════════════════════════════════════════════
 -->
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2500&pause=700&color=00D9FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Manuel+Fern%C3%A1ndez+%F0%9F%91%8B;DevOps+%7C+Linux+%7C+Observability;Systems+Programming+%7C+C+%7C+Unix;Automate.+Monitor.+Break.+Debug.+Improve.;Welcome+to+my+terminal+%F0%9F%90%A7" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2500&pause=700&color=00D9FF&center=true&vCenter=true&width=900&lines=Hola%2C+soy+Manuel+Fern%C3%A1ndez+%F0%9F%91%8B;DevOps+%7C+Linux+%7C+Observabilidad;Programaci%C3%B3n+de+Sistemas+%7C+C+%7C+Unix;Automatizar.+Monitorizar.+Depurar.+Mejorar.;Bienvenido+a+mi+terminal+%F0%9F%90%A7" alt="Typing SVG" />
 
 <br>
 
 <a href="https://github.com/MasterCodeMFE">
-  <img src="https://img.shields.io/github/followers/MasterCodeMFE?label=Followers&style=for-the-badge&logo=github&color=181717">
+ <img src="https://img.shields.io/github/followers/MasterCodeMFE?label=Seguidores&style=for-the-badge&logo=github&color=181717">
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=MasterCodeMFE&style=for-the-badge&color=00b4d8&label=PROFILE+VIEWS">
+<img src="https://komarev.com/ghpvc/?username=MasterCodeMFE&style=for-the-badge&color=00b4d8&label=VISITAS+AL+PERFIL">
 
 </div>
 
@@ -29,27 +29,27 @@ Manuel Fernández
 manuel@linux:~$ cat current_role.txt
 
 DevOps
-42 Madrid Student
-Linux & Systems enthusiast
+Estudiante en 42 Madrid
+Apasionado por Linux y los sistemas
 
 manuel@linux:~$ cat interests.txt
 
-Linux Internals
-Observability
-Automation
-Networking
-Containers
-Systems Programming
+Internals de Linux
+Observabilidad
+Automatización
+Redes
+Contenedores
+Programación de Sistemas
 
 manuel@linux:~$ echo $PHILOSOPHY
 
-"Understand the infrastructure I operate,
- not just the tools running on top of it."
+"Entender la infraestructura que opero,
+ no solo las herramientas que se ejecutan sobre ella."
 ```
 
 ---
 
-# 🧑‍💻 About Me
+## 🧑‍💻 Sobre mí
 
 ```yaml
 name: Manuel Fernández
@@ -57,18 +57,18 @@ username: MasterCodeMFE
 
 role:
   - DevOps
-  - Systems Programming Enthusiast
-  - 42 Madrid Student
+  - Apasionado por la Programación de Sistemas
+  - Estudiante en 42 Madrid
 
-location: Madrid, Spain
+location: Madrid, España
 
 current_focus:
   - Linux
-  - Observability
-  - Infrastructure
-  - Automation
-  - Networking
-  - Systems Programming
+  - Observabilidad
+  - Infraestructura
+  - Automatización
+  - Redes
+  - Programación de Sistemas
 
 languages:
   - C
@@ -85,40 +85,40 @@ learning:
   - Unix Internals
   - POSIX
   - TTY / Termios / Termcaps
-  - Containers
-  - Monitoring
-  - Networking
+  - Contenedores
+  - Monitorización
+  - Redes
 ```
 
-I like knowing **what is happening underneath the abstraction**.
+Me interesa comprender **qué ocurre realmente por debajo de las abstracciones**.
 
-If a tool already exists, there's a good chance I want to rebuild a smaller version of it just to understand how it works.
+Si una herramienta ya existe, probablemente quiera construir una versión más pequeña por mi cuenta para entender cómo funciona internamente.
 
 ---
 
-# ⚡ My Stack
+## ⚡ Mi Stack
 
 <div align="center">
 
-## 🐧 Systems
+### 🐧 Sistemas
 
 <img src="https://skillicons.dev/icons?i=linux,debian,ubuntu,bash&theme=dark" />
 
 <br><br>
 
-## ⚙️ DevOps
+### ⚙️ DevOps
 
 <img src="https://skillicons.dev/icons?i=docker,git,gitlab,ansible&theme=dark" />
 
 <br><br>
 
-## 💻 Programming
+### 💻 Programación
 
 <img src="https://skillicons.dev/icons?i=c,cpp,bash&theme=dark" />
 
 <br><br>
 
-## 📊 Observability
+### 📊 Observabilidad
 
 <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white">
 <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white">
@@ -129,64 +129,64 @@ If a tool already exists, there's a good chance I want to rebuild a smaller vers
 
 ---
 
-# 🧠 `man manuel`
+## 🧠 `man manuel`
 
 ```text
-MANUEL(1)                    USER COMMANDS                    MANUEL(1)
+MANUEL(1)                  USER COMMANDS                  MANUEL(1)
 
 NAME
-       manuel - devops engineer obsessed with understanding systems
+    manuel - DevOps orientado a comprender sistemas desde dentro
 
 SYNOPSIS
-       manuel [--linux] [--devops] [--monitor] [--build-from-scratch]
+    manuel [--linux] [--devops] [--monitor] [--build-from-scratch]
 
 DESCRIPTION
-       Works with Linux systems, infrastructure, automation,
-       monitoring and low-level programming.
+    Trabaja con sistemas Linux, infraestructura, automatización,
+    monitorización y programación de bajo nivel.
 
-       Usually found investigating how something works internally
-       instead of accepting that "it just works".
+    Habitualmente investigando cómo funciona algo internamente
+    en lugar de conformarse con que "simplemente funciona".
 
 OPTIONS
 
-       --linux
-              Explore GNU/Linux and Unix internals.
+    --linux
+        Explorar el funcionamiento interno de GNU/Linux y Unix.
 
-       --devops
-              Automate infrastructure and improve deployments.
+    --devops
+        Automatizar infraestructura y mejorar procesos de despliegue.
 
-       --monitor
-              Prometheus, Grafana, SNMP and infrastructure monitoring.
+    --monitor
+        Prometheus, Grafana, SNMP y monitorización de infraestructura.
 
-       --c
-              Build things dangerously close to the operating system.
+    --c
+        Construir software peligrosamente cerca del sistema operativo.
 
-       --break
-              Discover undocumented features.
+    --break
+        Descubrir comportamientos no documentados.
 
-       --debug
-              Turn those undocumented features back into working software.
+    --debug
+        Convertir esos comportamientos en software funcional.
 
-       --coffee
-              Required dependency.
+    --coffee
+        Dependencia obligatoria.
 
 EXIT STATUS
-       0      Everything works.
+    0   Todo funciona.
 
-       1      It's probably DNS.
+    1   Probablemente sea DNS.
 
-       42     The answer.
+    42  La respuesta.
 ```
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Proyectos destacados
 
 <div align="center">
 
 ## 📂 `ft_ls`
 
-### My own implementation of the Unix `ls` command
+Mi propia implementación del comando Unix `ls`
 
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
@@ -198,32 +198,32 @@ EXIT STATUS
 ```console
 $ ./ft_ls -laRt
 
-drwxr-xr-x   systems/
-drwxr-xr-x   linux/
-drwxr-xr-x   curiosity/
--rwxr-xr-x   build_it_myself
+drwxr-xr-x systems/
+drwxr-xr-x linux/
+drwxr-xr-x curiosity/
+-rwxr-xr-x build_it_myself
 ```
 
-A modular recreation of `ls` written in C to dive into **filesystem internals, directory traversal and metadata management**.
+Una recreación modular de `ls`, escrita en C para profundizar en **sistemas de archivos, recorrido de directorios y gestión de metadatos**.
 
-### ⚡ Features
+### ⚡ Funcionalidades
 
-- `-l` Long format
-- `-a` Hidden files
-- `-R` Recursive traversal
-- `-t` Modification-time sorting
-- `-r` Reverse ordering
-- Symbolic links
-- Multiple paths
-- File metadata
-- Unix file types
-- Error handling
+- `-l` Formato largo
+- `-a` Archivos ocultos
+- `-R` Recorrido recursivo
+- `-t` Ordenación por fecha de modificación
+- `-r` Orden inverso
+- Enlaces simbólicos
+- Múltiples rutas
+- Metadatos de archivos
+- Tipos de archivos Unix
+- Gestión de errores
 
-**Core concepts**
+**Conceptos principales**
 
-`C` · `GNU/Linux` · `POSIX` · `stat()` · `lstat()` · `dirent` · Filesystems
+`C` · `GNU/Linux` · `POSIX` · `stat()` · `lstat()` · `dirent` · Sistemas de archivos
 
-### 🔗 [Explore ft_ls](https://github.com/MasterCodeMFE/42-ft_ls)
+🔗 [Explorar ft_ls](https://github.com/MasterCodeMFE/42-ft_ls)
 
 ---
 
@@ -231,7 +231,7 @@ A modular recreation of `ls` written in C to dive into **filesystem internals, d
 
 ## 🖥️ `ft_select`
 
-### Building an interactive terminal UI from scratch
+Construyendo una interfaz interactiva de terminal desde cero
 
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black">
 <img src="https://img.shields.io/badge/TTY-Terminal-00D9FF?style=for-the-badge">
@@ -239,33 +239,34 @@ A modular recreation of `ls` written in C to dive into **filesystem internals, d
 
 </div>
 
-No GUI.
+Sin interfaz gráfica.
 
-No framework.
+Sin frameworks.
 
-Just the terminal.
+Solo la terminal.
 
 ```text
 Keyboard
-   │
-   ▼
- read()
-   │
-   ▼
-termios
-   │
-   ▼
+    │
+    ▼
+  read()
+    │
+    ▼
+ termios
+    │
+    ▼
 Application
-   │
-   ├── Selection
-   ├── Signals
-   ├── Resize
-   └── Rendering
-   ▼
-       TTY
+    │
+    ├── Selección
+    ├── Señales
+    ├── Resize
+    └── Renderizado
+    │
+    ▼
+   TTY
 ```
 
-Working directly with:
+Trabajando directamente con:
 
 `termios` · `termcaps` · `TTY` · `signals` · `ioctl`
 
@@ -277,34 +278,34 @@ Working directly with:
 
 ## 🎥 `ft_script`
 
-### Exploring pseudo-terminals and Unix I/O
+Explorando pseudo-terminales y E/S en Unix
 
 </div>
 
 ```text
-Terminal
-   │
-   ▼
-  PTY
- ┌─┴─────────────┐
- │               │
- ▼               ▼
-Parent          Child
- │               │
-Recorder        Shell
- │               │
- └──────┬────────┘
-        ▼
-      Output
+              Terminal
+                 │
+                 ▼
+                PTY
+          ┌──────┴──────┐
+          │             │
+          ▼             ▼
+        Parent         Child
+          │             │
+       Recorder        Shell
+          │             │
+          └──────┬──────┘
+                 ▼
+               Output
 ```
 
-Built around:
+Construido alrededor de:
 
 `PTY` · `TTY` · `fork()` · `wait()` · `read()` · `write()`
 
 `process management` · `file descriptors` · `terminal I/O`
 
-### 🔗 https://github.com/MasterCodeMFE/ft_script
+🔗 [Explorar ft_script](https://github.com/MasterCodeMFE/ft_script)
 
 ---
 
@@ -312,41 +313,41 @@ Built around:
 
 ## 🐳 `Inception`
 
-### Infrastructure built with containers
+Infraestructura construida con contenedores
 
 <img src="https://skillicons.dev/icons?i=docker,nginx,mysql,wordpress&theme=dark"/>
 
 </div>
 
 ```text
-                 Internet
-                    │
-                    ▼
-               ┌─────────┐
-               │  NGINX  │
-               └────┬────┘
-                    │
-                    ▼
-              ┌───────────┐
-              │ WordPress │
-              └─────┬─────┘
-                    │
-                    ▼
-               ┌─────────┐
-               │ MariaDB │
-               └─────────┘
+             Internet
+                │
+                ▼
+          ┌───────────┐
+          │   NGINX   │
+          └─────┬─────┘
+                │
+                ▼
+         ┌─────────────┐
+         │  WordPress  │
+         └──────┬──────┘
+                │
+                ▼
+          ┌───────────┐
+          │  MariaDB  │
+          └───────────┘
 ```
 
-Exploring:
+Profundizando en:
 
-- Docker containers
-- Container networking
-- Persistent volumes
+- Contenedores Docker
+- Redes entre contenedores
+- Volúmenes persistentes
 - Reverse proxies
-- Service isolation
-- Infrastructure configuration
+- Aislamiento de servicios
+- Configuración de infraestructura
 
-### 🔗 https://github.com/MasterCodeMFE/inception
+🔗 [Explorar Inception](https://github.com/MasterCodeMFE/inception)
 
 ---
 
@@ -354,7 +355,7 @@ Exploring:
 
 ## 🌐 `Webserv`
 
-### HTTP server built from scratch in C++
+Servidor HTTP construido desde cero en C++
 
 <img src="https://skillicons.dev/icons?i=cpp,linux,nginx&theme=dark"/>
 
@@ -362,29 +363,29 @@ Exploring:
 
 ```text
 Client
-   │
-   │ HTTP Request
-   ▼
-┌─────────────┐
-│   Webserv   │
-├─────────────┤
-│   Parser    │
-│   Sockets   │
-│   CGI       │
-│   Routing   │
-└──────┬──────┘
-       │
-       ▼
+  │
+  │ HTTP Request
+  ▼
+┌───────────────┐
+│    Webserv    │
+├───────────────┤
+│ Parser        │
+│ Sockets       │
+│ CGI           │
+│ Routing       │
+└───────┬───────┘
+        │
+        ▼
  HTTP Response
 ```
 
-Built to understand:
+Construido para comprender:
 
 `HTTP` · `TCP/IP` · `Sockets` · `Non-blocking I/O`
 
 `CGI` · `Configuration parsing` · `Client/Server architecture`
 
-### 🔗 https://github.com/MasterCodeMFE/webserver
+🔗 [Explorar Webserv](https://github.com/MasterCodeMFE/webserver)
 
 ---
 
@@ -392,7 +393,7 @@ Built to understand:
 
 ## 🐚 `Babuterm`
 
-### Because apparently using Bash wasn't enough.
+Porque, aparentemente, utilizar Bash no era suficiente.
 
 </div>
 
@@ -402,17 +403,17 @@ manuel@Babuterm$ cat output.txt
 Hello world
 ```
 
-My own Unix shell implementation exploring:
+Mi propia implementación de una shell Unix para profundizar en:
 
-- Processes
+- Procesos
 - Pipes
-- Redirections
-- Environment variables
+- Redirecciones
+- Variables de entorno
 - Built-ins
-- Signals
-- File descriptors
+- Señales
+- Descriptores de archivo
 
-### 🔗 https://github.com/MasterCodeMFE/Babuterm
+🔗 [Explorar Babuterm](https://github.com/MasterCodeMFE/Babuterm)
 
 ---
 
@@ -420,80 +421,80 @@ My own Unix shell implementation exploring:
 
 <div align="center">
 
-### From `Hello World` to "why is this file descriptor still open?"
+De `Hello World` a "¿por qué sigue abierto este descriptor de archivo?"
 
 </div>
 
 ```text
-                          42 Madrid
-                              │
-            ┌─────────────────┼─────────────────┐
-            │                 │                 │
-            ▼                 ▼                 ▼
-            C               UNIX              C++
-            │                 │                 │
-     ┌──────┼──────┐    ┌────┼─────┐      CPP Modules
-     │      │      │    │    │     │
-   Libft printf   GNL  shell IPC signals
-                         │
-                         ▼
-                  Systems Programming
-                         │
-            ┌────────────┼─────────────┐
-            │            │             │
-            ▼            ▼             ▼
-          ft_ls       ft_script     ft_select
+                         42 Madrid
+                             │
+             ┌───────────────┼───────────────┐
+             │               │               │
+             ▼               ▼               ▼
+             C              UNIX            C++
+             │               │               │
+     ┌───────┼───────┐   ┌───┼────┐     CPP Modules
+     │       │       │   │        │
+   Libft   printf   GNL shell    IPC/signals
+             │
+             ▼
+      Systems Programming
+             │
+     ┌───────┼─────────┐
+     │       │         │
+     ▼       ▼         ▼
+   ft_ls  ft_script  ft_select
 ```
 
-| Area | Projects |
+| Área | Proyectos |
 |:---|:---|
-| 🧱 C Foundations | Libft · ft_printf · get_next_line |
-| 🧠 Algorithms | push_swap |
+| 🧱 Fundamentos de C | Libft · ft_printf · get_next_line |
+| 🧠 Algoritmos | push_swap |
 | 📡 IPC | minitalk |
 | 🐚 Unix | Babuterm |
-| 🧵 Concurrency | Philosophers |
-| 🎨 Graphics | FdF · cub3d |
+| 🧵 Concurrencia | Philosophers |
+| 🎨 Gráficos | FdF · cub3d |
 | ⚙️ C++ | CPP Modules |
 | 🌐 Networking | Webserv |
-| 🐳 Infrastructure | Inception |
+| 🐳 Infraestructura | Inception |
 | 🌍 Web | ft_transcendence |
 | 🐧 Linux Internals | ft_ls · ft_script · ft_select |
 
 ---
 
-# 🔭 DevOps × Systems Programming
+# 🔭 DevOps × Programación de Sistemas
 
-This is where things get interesting.
+Aquí es donde ambas disciplinas se encuentran.
 
 ```text
-                     ┌───────────────┐
-                     │     DEVOPS    │
-                     └───────┬───────┘
-                             │
-           ┌─────────────────┼─────────────────┐
-           │                 │                 │
-           ▼                 ▼                 ▼
-        Linux          Observability       Automation
-           │                 │                 │
-           │         ┌───────┼───────┐         │
-           │         │       │       │         │
-           │     Prometheus Grafana SNMP    Scripts
-           │                                   │
-           └─────────────────┬─────────────────┘
-                             │
-                             ▼
-                 ┌─────────────────────┐
-                 │ SYSTEMS PROGRAMMING │
-                 └──────────┬──────────┘
-                            │
-              ┌─────────────┼─────────────┐
-              ▼             ▼             ▼
-              C           POSIX          UNIX
-              │             │             │
-              └─────────────┼─────────────┘
-                            │
-                            ▼
-                    UNDERSTAND IT.
+                 ┌───────────────┐
+                 │    DEVOPS     │
+                 └───────┬───────┘
+                         │
+         ┌───────────────┼───────────────┐
+         │               │               │
+         ▼               ▼               ▼
+       Linux       Observabilidad    Automatización
+         │               │               │
+         │       ┌───────┼───────┐       │
+         │       │       │       │       │
+         │  Prometheus Grafana  SNMP   Scripts
+         │               │
+         └───────────────┬───────────────┘
+                         │
+                         ▼
+             ┌─────────────────────┐
+             │ SYSTEMS PROGRAMMING │
+             └──────────┬──────────┘
+                        │
+             ┌──────────┼──────────┐
+             ▼          ▼          ▼
+             C        POSIX       UNIX
+             │          │          │
+             └──────────┼──────────┘
+                        │
+                        ▼
+                ENTENDER EL SISTEMA
 ```
 
 ---
@@ -504,7 +505,7 @@ This is where things get interesting.
 Name:           Manuel Fernández
 Username:       MasterCodeMFE
 State:          R (running)
-Threads:        probably too many
+Threads:        probablemente demasiados
 Shell:          bash
 Editor:         vim
 Coffee:         enabled
@@ -519,7 +520,7 @@ Uptime:         learning since boot
 
 ---
 
-# 💭 Engineering Philosophy
+# 💭 Filosofía de Ingeniería
 
 ```c
 while (alive)
@@ -533,35 +534,35 @@ while (alive)
 }
 ```
 
-I don't want to know only **which command fixes the problem**.
+No quiero saber únicamente **qué comando soluciona un problema**.
 
-I want to understand:
+Quiero entender:
 
 ```text
-Why did it break?
+¿Por qué ha fallado?
         │
         ▼
-What is actually responsible?
+¿Qué componente es realmente responsable?
         │
         ▼
-How does it work internally?
+¿Cómo funciona internamente?
         │
         ▼
-Can I reproduce it?
+¿Puedo reproducirlo?
         │
         ▼
-Can I monitor it?
+¿Puedo monitorizarlo?
         │
         ▼
-Can I automate it?
+¿Puedo automatizarlo?
         │
         ▼
-Can I make it better?
+¿Puedo mejorarlo?
 ```
 
 ---
 
-# 📊 GitHub Telemetry
+# 📊 Telemetría de GitHub
 
 <div align="center">
 
@@ -577,17 +578,17 @@ Can I make it better?
 
 ---
 
-# 🐍 My Contributions
+# 🐍 Mis contribuciones
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/MasterCodeMFE/MasterCodeMFE/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/MasterCodeMFE/MasterCodeMFE/output/github-contribution-grid-snake-dark.svg" alt="Animación de contribuciones" />
 
 </div>
 
 ---
 
-# 📈 Contribution Activity
+# 📈 Actividad de contribuciones
 
 <div align="center">
 
@@ -597,48 +598,48 @@ Can I make it better?
 
 ---
 
-# 🧩 Current Quest
+# 🧩 Objetivos actuales
 
 ```console
 manuel@linux:~$ ./current_quest
 
-[+] Master Linux internals
-[+] Build monitoring systems
-[+] Automate repetitive infrastructure
-[+] Understand networking deeply
-[+] Keep building things in C
-[+] Break fewer production systems
-[+] Break more test systems
-[+] Never stop learning
+[+] Profundizar en los internals de Linux
+[+] Construir sistemas de monitorización
+[+] Automatizar tareas repetitivas de infraestructura
+[+] Comprender networking en profundidad
+[+] Seguir construyendo proyectos en C
+[+] Romper menos sistemas en producción
+[+] Romper más sistemas de pruebas
+[+] No dejar nunca de aprender
 
 Status: RUNNING...
 ```
 
 ---
 
-# 🎯 The Goal
+# 🎯 El objetivo
 
 <div align="center">
 
-### DevOps engineer with a systems programmer mindset.
+### DevOps con mentalidad de programador de sistemas.
 
-Not only:
+No limitarme a:
 
-> **"I know how to use the tool."**
+**"Sé utilizar esta herramienta."**
 
-But:
+Sino llegar a:
 
-> **"I understand why the tool works."**
+**"Entiendo por qué funciona esta herramienta."**
 
-And eventually:
+Y, eventualmente:
 
-> **"Let me see if I can build it myself."**
+**"Vamos a ver si puedo construirla por mi cuenta."**
 
 </div>
 
 ---
 
-# 🌐 Connect
+# 🌐 Contacto
 
 <div align="center">
 
@@ -648,16 +649,16 @@ And eventually:
 
 <br><br>
 
-### 🐧 Linux · ⚙️ DevOps · 📊 Observability · 💻 Systems Programming
+🐧 Linux · ⚙️ DevOps · 📊 Observabilidad · 💻 Programación de Sistemas
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=1200&color=00D9FF&center=true&vCenter=true&width=700&lines=Automate+what+you+repeat.;Monitor+what+you+operate.;Understand+what+you+build.;Keep+learning." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=1200&color=00D9FF&center=true&vCenter=true&width=700&lines=Automatiza+lo+que+repites.;Monitoriza+lo+que+operas.;Entiende+lo+que+construyes.;Sigue+aprendiendo." />
 
 <br>
 
 **`manuel@linux:~$ exit`**
 
-*Process still running...*
+*El proceso sigue en ejecución...*
 
 </div>
