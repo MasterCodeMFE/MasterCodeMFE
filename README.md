@@ -10,9 +10,9 @@
 
 ## Sobre mí
 
-Soy DevOps con mentalidad de programador de sistemas. Me interesa entender cómo funcionan por dentro las herramientas que opero (shells, servidores HTTP, terminales, contenedores) y, cuando tiene sentido, construir una versión propia para comprenderlas a fondo.
+DevOps con mentalidad de programador de sistemas. Me interesa comprender cómo funcionan por dentro las herramientas que opero (shells, servidores HTTP, terminales, contenedores) y, cuando aporta valor, construir una versión propia para dominarlas a fondo.
 
-Actualmente estudio en **42 Madrid**, donde trabajo principalmente en C, C++ y Unix, y complemento esa base con infraestructura y observabilidad.
+Estudio en **42 Madrid**, donde trabajo principalmente con C, C++ y Unix, y complemento esa base con infraestructura, automatización y observabilidad.
 
 ## Áreas de trabajo
 
@@ -32,8 +32,7 @@ Actualmente estudio en **42 Madrid**, donde trabajo principalmente en C, C++ y U
 |:---|:---|:---|
 | 📂 [**ft_ls**](https://github.com/MasterCodeMFE/42-ft_ls) | Reimplementación de `ls` con formato largo, recursividad, ordenación por fecha, enlaces simbólicos y múltiples rutas. | `C` `POSIX` `stat` `dirent` |
 | 🖥️ **ft_select** | Interfaz interactiva de terminal sin frameworks: selección, señales, redimensionado y renderizado dinámico. | `C` `termios` `termcaps` `ioctl` |
-| 🎥 [**ft_script**](https://github.com/MasterCodeMFE/ft_script) | Reimplementación de `script` con pseudo-terminales para grabar sesiones de terminal. | `C` `PTY` `fork` `terminal I/O` |
-| 🐚 [**Babuterm**](https://github.com/MasterCodeMFE/Babuterm) | Shell Unix propia con pipes, redirecciones, variables de entorno, built-ins y gestión de señales. | `C` `procesos` `pipes` `file descriptors` |
+| 🐒 [**Babuterm**](https://github.com/MasterCodeMFE/Babuterm) | Shell Unix propia con pipes, redirecciones, variables de entorno, built-ins y gestión de señales. | `C` `procesos` `pipes` `file descriptors` |
 | 🌐 [**Webserv**](https://github.com/MasterCodeMFE/webserver) | Servidor HTTP con parser de peticiones, routing, CGI y E/S no bloqueante. | `C++` `HTTP` `sockets` `TCP/IP` |
 | 🐳 [**Inception**](https://github.com/MasterCodeMFE/inception) | Infraestructura con Docker: NGINX, WordPress y MariaDB en servicios aislados, con redes y volúmenes persistentes. | `Docker` `NGINX` `MariaDB` |
 
