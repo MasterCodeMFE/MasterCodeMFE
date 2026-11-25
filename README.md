@@ -77,7 +77,3 @@ Estudio en **42 Madrid**, donde trabajo principalmente con C, C++ y Unix, y comp
 [![GitHub](https://img.shields.io/badge/GitHub-MasterCodeMFE-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MasterCodeMFE)
 <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TU-PERFIL) -->
 <!-- [![Email](https://img.shields.io/badge/Email-Escribir-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu@correo.com) -->
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:161B22&height=60&section=footer" width="100%" alt="" />
-</p>
