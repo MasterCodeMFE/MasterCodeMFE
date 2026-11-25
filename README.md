@@ -75,5 +75,5 @@ Estudio en **42 Madrid**, donde trabajo principalmente con C, C++ y Unix, y comp
 ## Contacto
 
 [![GitHub](https://img.shields.io/badge/GitHub-MasterCodeMFE-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MasterCodeMFE)
-<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TU-PERFIL) -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manuel-fern%C3%A1ndez-esteban/)
 <!-- [![Email](https://img.shields.io/badge/Email-Escribir-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu@correo.com) -->
