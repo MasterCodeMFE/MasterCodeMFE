@@ -114,7 +114,7 @@ If a tool already exists, there's a good chance I want to rebuild a smaller vers
 
 ## 💻 Programming
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,bash&theme=dark" />
+<img src="https://skillicons.dev/icons?i=c,cpp,bash&theme=dark" />
 
 <br><br>
 
